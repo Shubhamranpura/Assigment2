@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import NestedBox from './Componannt/NeastedBox'; 
+import NestedBox from './Component/NeastedBox'; 
 
 function App() {
   const [value, setValue] = useState(0);
